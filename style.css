@@ -1,0 +1,59 @@
+.container {
+    width: 870px;
+    height: 900px;
+    border: 8px solid #000;
+    display: inline-block;
+    margin-left: 50px;
+    margin-top: 50px;
+}
+
+.lineBlockWordsTop .words {
+    font-size: 40px;
+    display: inline-block;
+    margin-left: 66px;
+    margin-right: 4px;
+}
+
+.lineBlockWordsBottom .words {
+    font-size: 40px;
+    display: inline-block;
+    margin-left: 66px;
+    margin-right: 4px;
+}
+
+.lineBlock {
+    width: 100%;
+    height: 100%;
+    display: inline-block;
+}
+
+.lineBlock .number {
+    font-size: 40px;
+    margin-right: 5px;
+    margin-left: 5px;
+}
+
+.line {
+    width: 100%;
+    height: 100px;
+    align-items: center;
+    margin-left: 3px;
+    display: flex;
+}
+
+.blockLines {
+    display: flex;
+    border: 4px solid #000;
+}
+
+.white_block {
+    width: 100px;
+    height: 100px;
+    background: white;
+}
+
+.black_block {
+    width: 100px;
+    height: 100px;
+    background: #000;
+}
